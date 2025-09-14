@@ -104,7 +104,7 @@ This project demonstrates skills in **business analytics** and **AI-driven decis
 
 ## 🔗 Live App
 Access the live project here:  
-[**Formula 1 Winner Predictor**](https://your-username-your-project.streamlit.app)
+[**Formula 1 Winner Predictor**](https://f1-winner-prediction-model.streamlit.app/)
 
 ---
 
